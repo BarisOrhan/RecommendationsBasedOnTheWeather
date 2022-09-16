@@ -3,7 +3,7 @@
  */
 public class StatusWeather {
 
-    String Temperature;
+    private String Temperature;
     String Rains;
     String Humidity;
     String Wind;
