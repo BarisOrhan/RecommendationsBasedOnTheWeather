@@ -22,6 +22,7 @@ public class GoogleSearchBot {
         System.out.println("Please Write Your City: ");
         String inputLocation = sc.nextLine();
         sc.close();
+
         return inputLocation;
     }
 
