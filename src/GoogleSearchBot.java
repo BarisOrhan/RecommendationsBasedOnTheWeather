@@ -19,6 +19,8 @@ public class GoogleSearchBot {
 
     public String Location() {
         Scanner sc = new Scanner(System.in);
+
+
         System.out.println("Please Write Your City: ");
         String inputLocation = sc.nextLine();
         sc.close();
